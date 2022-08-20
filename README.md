@@ -9,7 +9,7 @@ This repo is been created by [@azizadx](https://github.com/Azizadx) which I’ll
 * Build Dropbox in etherum
 
 ## 🏋🏽‍♂️ Resource am going to use 
-### Solana 
+### ethereum 
 * [solidity-by-example](https://solidity-by-example.org/)
 * [ethereum Docs](https://ethereum.org/en/)
 * [Buildspace](https://app.buildspace.so/home)
